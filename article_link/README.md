@@ -3,6 +3,6 @@
 <br>
 
 * R_CNN https://arxiv.org/abs/1311.2524
-
+* Vision Transorformer https://arxiv.org/abs/2010.11929
 
 
