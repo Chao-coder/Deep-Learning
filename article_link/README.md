@@ -11,3 +11,5 @@
 
 * VGG https://arxiv.org/abs/1409.1556
 * GoogLenet  https://arxiv.org/abs/1409.4842
+* ResNet https://arxiv.org/abs/1512.03385
+* 
