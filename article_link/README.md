@@ -5,6 +5,7 @@
 * R-CNN https://arxiv.org/abs/1311.2524
 * Fast R-CNN https://arxiv.org/abs/1504.08083
 * Faster R-CNN https://arxiv.org/abs/1506.01497
+* SSD https://arxiv.org/abs/1512.02325
 * Vision Transorformer https://arxiv.org/abs/2010.11929
 
 
