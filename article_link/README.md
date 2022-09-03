@@ -8,6 +8,10 @@
 * SSD https://arxiv.org/abs/1512.02325
 * FPN(Feature Pyramid Networks for Object Detection) https://arxiv.org/abs/1612.03144
 * RetinaNet(Focal Loss for Dense Object Detection) https://arxiv.org/abs/1708.02002
+* YOLOv1 https://arxiv.org/abs/1506.02640
+* YOLOv2 https://arxiv.org/abs/1612.08242
+* YOLOv3 https://arxiv.org/abs/1804.02767
+* YOLOv4 https://arxiv.org/abs/2004.10934
 * Vision Transorformer https://arxiv.org/abs/2010.11929
 
 
