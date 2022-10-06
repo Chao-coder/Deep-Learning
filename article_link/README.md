@@ -25,3 +25,4 @@
 * MobileNet(v1) https://arxiv.org/abs/1704.04861
 * MobileNet(v2) https://arxiv.org/abs/1801.04381
 * MobileNet(v3) https://arxiv.org/abs/1905.02244
+* RepVGG（making VGG-style ConvNets Great Again） https://arxiv.org/abs/2101.03697
