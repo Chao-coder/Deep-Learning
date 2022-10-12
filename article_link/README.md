@@ -29,4 +29,4 @@
 
 
 ## 最佳论文
-* EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation 
+* EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation https://arxiv.org/abs/2203.13254
