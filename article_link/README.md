@@ -26,3 +26,7 @@
 * MobileNet(v2) https://arxiv.org/abs/1801.04381
 * MobileNet(v3) https://arxiv.org/abs/1905.02244
 * RepVGG（making VGG-style ConvNets Great Again） https://arxiv.org/abs/2101.03697
+
+
+## 最佳论文
+* EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation 
